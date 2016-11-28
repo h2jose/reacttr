@@ -10,7 +10,14 @@ class Main extends Component {
           text: 'mensaje de prueba',
           picture: 'https://pbs.twimg.com/profile_images/696689442950672385/occEkJ13_400x400.jpg',
           displayName: 'Jose Hernandez',
-          userName: 'h2jose',
+          username: 'h2jose',
+          date: Date.now()
+        },
+        {
+          text: 'segundo mensaje',
+          picture: 'https://pbs.twimg.com/profile_images/696689442950672385/occEkJ13_400x400.jpg',
+          displayName: 'david Hernandez',
+          username: 'david',
           date: Date.now()
         }
       ]

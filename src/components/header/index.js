@@ -4,7 +4,7 @@ import './header.css'
 class Header extends Component {
   render () {
     return (
-      <header className='root'>
+      <header className='header'>
         <h1 className='logo'>Reactrr logo</h1>
       </header>
     )
