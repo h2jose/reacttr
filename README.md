@@ -6,6 +6,6 @@ Para más informaación y registro:  [cursos.carlosazaustre.es](http://cursos.ca
 ## Tabla de contenido por rama
 
 - [CAPITULO 1: Creación del Componente App]  (https://github.com/h2jose/reacttr/tree/capitulo_1).
-- [CAPITULO 2: Comunicación de datos entre Componentes (props) (1)] (#).
+- [CAPITULO 2: Comunicación de datos entre Componentes (props) (1)] (https://github.com/h2jose/reacttr/tree/capitulo_2).
 
 Happy coding con React Js !
