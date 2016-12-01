@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import MessageList from '../MessageList'
 import InputText from '../InputText'
+import ProfileBar from '../ProfileBar'
 
 class Main extends Component {
   constructor () {
@@ -25,6 +26,7 @@ class Main extends Component {
       ]
     }
   }
+  
   handleOpenText (event) {
     event.preventDefault()
     this.setState({ openText: true })
